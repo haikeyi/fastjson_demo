@@ -1,4 +1,4 @@
-package com.song.fastjson_demo.domain;
+package com.song.fastjson.domain;
 
 import com.alibaba.fastjson.annotation.JSONField;
 import lombok.AllArgsConstructor;
@@ -7,6 +7,12 @@ import lombok.NoArgsConstructor;
 
 import java.util.Date;
 
+/**
+ * Person实体类
+ * @author songchengkang
+ * @date 2020/7/17
+ *
+ */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
